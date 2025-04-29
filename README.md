@@ -1,5 +1,5 @@
 # BAC-Simulator
-A program that uses recurrence equations, and modeling techniques to run a live simulation of BAC measurements while drinking alcohol.
+A program that uses recurrence equations, and modeling techniques to run a live simulation of BAC measurements while drinking alcohol. Code for the project is in the master branch.
 
 ## How to use
 You will be asked to fill out a questionnaire that has questions related to a past night of drinking.
