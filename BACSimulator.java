@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class DrunkSimulator {
+public class BACSimulator {
 
    static JFrame frame;
    
