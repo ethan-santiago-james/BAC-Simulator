@@ -172,12 +172,12 @@ public class SimulationWindow extends JPanel implements Runnable {
         g.setColor(Color.black);
         g.drawString("Time: " + time,5,200);
         g.drawString("BAC: " + BAC + " grams of alcohol per 100ml of blood",5,250);
-        g.drawString("STATUS: " + this.status,5,300);
+        g.drawString("Status: " + this.status,5,300);
         g.drawString("Drinks Consumed: " + drinksConsumed,5,350);
         g.drawString("Alcohol in Blood Stream: " + alcoholInBloodStream + "g",5,400);
         g.drawString("Alcohol in Stomach: " + alcoholInStomach + "g",5,450);
         g.drawString("Stomach Volume: " + stomachVolume + "g",5,500);
-        g.drawString("Peak Drunkness: " + peakBAC + " BAC (" + peakStatus + ") at " + peakMinutesPassed,5,550);
+        g.drawString("Peak BAC, and Status: " + peakBAC + ", " + peakStatus + ") at " + peakMinutesPassed,5,550);
         
         Graphics2D g2 = (Graphics2D)g;
         
