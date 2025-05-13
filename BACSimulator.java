@@ -7,7 +7,7 @@ public class BACSimulator {
    
    public static void main(String[] args) {
    
-      frame = new JFrame("Drunk Simulator");
+      frame = new JFrame("BAC Simulator");
       frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
       
       MainGUI gui = new MainGUI();
@@ -51,7 +51,7 @@ public class BACSimulator {
       
       frame.setVisible(false);
       
-      JFrame frameTwo = new JFrame("Drunk Simulation!");
+      JFrame frameTwo = new JFrame("BAC Simulation");
       frameTwo.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
       
       
