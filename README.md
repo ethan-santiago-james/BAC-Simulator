@@ -6,4 +6,4 @@
 ### You will be asked to fill out a questionnaire that has questions related to your weight, how much you plan on drinking, and how much you plan on eating before drinking to make the simulation as accurate as possible
 
 # Reason for creation
-### A potential use of this program would be to gain an estimate of what your BAC would be if you had a certain number of drinks, over a certain amount of time with a certain alcohol percentage. Of course, no models are correct only useful.
+### A potential use of this program would be to gain an estimate of what your BAC would be if you had a certain number of drinks, over a certain amount of time with a certain alcohol percentage. Of course, no models are every fully correct only useful as approximation.
