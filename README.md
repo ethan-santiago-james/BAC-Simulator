@@ -1,9 +1,6 @@
 # BAC-Simulator
 ### A program that uses recurrence equations, and modeling techniques to run a live simulation of BAC measurements while drinking alcohol all with the goal of individuals being able to discover a drinking amount, and frequency that is safe for them. Code for the project is in the master branch.
 
-# Where the data came from
-### The parameters were used from a published paper showcasing individual BAC counts over time based on their weight, drinking frequency, and food in their stomach prior. I grabbed it from a lecture slide at university so unfortunately cannot remember the exact paper.
-
 # How to use
 ### Run BACSimulator.java to begin use
 ### You will be asked to fill out a questionnaire that has questions related to your weight, how much you plan on drinking, and how much you plan on eating before drinking to make the simulation as accurate as possible
