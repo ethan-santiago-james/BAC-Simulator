@@ -39,7 +39,7 @@ public class MainGUI extends JPanel {
       frontScreen = new JPanel();
       frontScreen.setLayout(new GridLayout(3,1));
       
-      title = new JLabel("Welcome To Drunk Simulator");
+      title = new JLabel("Welcome To BAC Simulator");
       title.setHorizontalAlignment(SwingConstants.CENTER);
       
       begin = new JButton("Begin");
